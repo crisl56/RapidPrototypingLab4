@@ -5,9 +5,10 @@ This is the cooking game we thought the Client Specner would like
 
 # Link to external #
 Brain storm Figma: https://www.figma.com/board/rwbGLdJPi0jLIUoFjLtM9p/Rapid-Prototyping?node-id=0-1&t=Q3rNkxIqeS3O02KM-1
+
 UI Design Figma: https://www.figma.com/design/40HpZA9QokaAlP2dEmz3if/Untitled?node-id=0-1&t=Qn5MCH3cpr5UYBl4-1
 
-The ui Design figma also has dev logs
+The UI Design figma also has dev logs
 
 # How to Run #
 Install this repo
